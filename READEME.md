@@ -1,7 +1,7 @@
 # JavaScript examples #
 Simple examples of JavaScript, some of them can be run directly from local file system, some require running server as otherwise browser will complain about CORS issue.
 
-## WebGL example ##
+## xeokit example ##
 This example uses [https://github.com/xeokit/xeokit-sdk](https://github.com/xeokit/xeokit-sdk "https://github.com/xeokit/xeokit-sdk")
 
 Sample model comes from: [https://openifcmodel.cs.auckland.ac.nz/](https://openifcmodel.cs.auckland.ac.nz/ "https://openifcmodel.cs.auckland.ac.nz/")
@@ -21,4 +21,4 @@ To run it:
 
 3. Navigate to page
 
-	`http://localhost:<poart>/webgl.html   
+	`http://localhost:<poart>/xeokit.html   
