@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@xeokit/xeokit-sdk": "^2.4.0-alpha-90",
+    "http-server": "^14.1.1"
+  }
+}
